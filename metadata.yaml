@@ -1,0 +1,27 @@
+_repo: Dream-Days_1288
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grahame, Kenneth
+    birthdate: 1859
+    deathdate: 1932
+    gutenberg_agent_id: '153'
+    url: http://www.gutenberg.org/2009/agents/153
+    wikipedia: http://en.wikipedia.org/wiki/Kenneth_Grahame
+description: Sequel to "The Golden Age."
+gutenberg_issued: '1998-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1288'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcsh 'Brothers and sisters -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Country life -- Fiction'
+- GITenberg
+title: Dream Days
+url: http://www.gutenberg.org/ebooks/1288
